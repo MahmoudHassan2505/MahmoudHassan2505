@@ -20,11 +20,11 @@ new Person({
     married: false,
 }).sayHello();
 ```
-<p align="center"> <h1 align="center"> Hi, I am Mahmoud Hassan Ghania <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /></h1> </p>
-
+```cmd
+D:\Mahmoud-Ghania> node index.js
+Hi, my name is Mahmoud Ghania, I'm a Full Stack Developer from Egypt.
+```
+<img src="/assets/images/horizontal-divider-gradient.gif">
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 * I am a Software Engineer at Benha University. My skills at work include Java, Spring, Flutter, Angular.
@@ -37,8 +37,10 @@ new Person({
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MahmoudHassan2505&label=Profile%20Visits&color=blue&style=plastic%22%20" /> </p>
+<img src="/assets/images/horizontal-divider-gradient.gif">
 
 ### Languages and Tools:
+
 <code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java"/></code>
 <code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring"/></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
